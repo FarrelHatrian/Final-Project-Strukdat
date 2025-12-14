@@ -7,7 +7,7 @@ Proyek ini adalah simulasi fisika 2D yang dikembangkan menggunakan C++ dengan li
 - Menggunakan FPS
 - Menggunakan tombol B untuk mode brute force
 - Menggunakan tombol Q untuk mode quadtree
-- Menggunakan space/mouse untuk menambah bola
+- Menggunakan space untuk menambah bola
 - Menggunakan tombol R untuk reset bola
 
 # Algoritma Collision
