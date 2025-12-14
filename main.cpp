@@ -105,7 +105,6 @@ int main() {
     for (int i = 0; i < 800; i++) {
         Ball b;
         
-        // 
         bool isBig = (rand() % 10) < 2;
         b.radius = isBig ? 12.f : 6.f;
         
@@ -135,8 +134,7 @@ int main() {
         if (currentSpeed > maxSpeed) {
             b.velocity = normalize(b.velocity) * maxSpeed;
         }
-        
-        // 
+         
         if (rand() % 20 == 0) {
             b.velocity = {0, 0};
         }
