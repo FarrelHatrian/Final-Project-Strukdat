@@ -27,8 +27,7 @@ Brute Force
 - Jika ada 1000 bola, Brute Force harus melakukan sekitar 500.000 pemeriksaan tabrakan dalam satu frame
 - Sangat lambat dan tidak skalabel untuk simulasi dengan banyak objek, menyebabkan FPS anjlok
 
-## 🎥 Simulation Video
-[▶️ Klik untuk melihat simulasi](assets/simulasi.mp4)
+
 
 
 QuadTree
