@@ -4,7 +4,7 @@
 Proyek ini adalah simulasi fisika 2D yang dikembangkan menggunakan C++ dengan library SFML (Simple and Fast Multimedia Library). Tujuan utama program ini adalah mendemonstrasikan dan membandingkan kinerja dua algoritma deteksi tabrakan (Collision Detection) ketika menangani sejumlah besar objek bergerak.
 
 # TOOLS YANG DIGUNAKAN
-- Bahasa Pemrograman: C++
+** Bahasa Pemrograman: C++
 - Library Grafis: SFML 2.6.1
 - Compiler: g++
 
