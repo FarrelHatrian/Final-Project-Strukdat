@@ -27,6 +27,10 @@ Brute Force
 - Jika ada 1000 bola, Brute Force harus melakukan sekitar 500.000 pemeriksaan tabrakan dalam satu frame
 - Sangat lambat dan tidak skalabel untuk simulasi dengan banyak objek, menyebabkan FPS anjlok
 
+## 🎥 Simulation Video
+[▶️ Klik untuk melihat simulasi](assets/simulasi.mp4)
+
+
 QuadTree
 - Menggunakan teknik Spatial Partitioning. QuadTree membagi ruang simulasi (jendela) menjadi empat area kecil (kuadran), kemudian membagi lagi kuadran tersebut
 - la hanya dicek tabrakannya dengan bola lain yang berada di kuadran yang sama atau kuadran tetangga dekatnya
