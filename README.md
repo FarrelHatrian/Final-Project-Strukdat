@@ -26,6 +26,9 @@ Brute Force
 - Algoritma ini membandingkan setiap bola dengan setiap bola lainnya
 - Jika ada 1000 bola, Brute Force harus melakukan sekitar 500.000 pemeriksaan tabrakan dalam satu frame
 - Sangat lambat dan tidak skalabel untuk simulasi dengan banyak objek, menyebabkan FPS anjlok
+  
+# KESIMPULAN
+Program ini mensimulasikan pergerakan dan tabrakan banyak bola 2D menggunakan C++ dan SFML. Tabrakan dapat dideteksi dengan dua metode, yaitu Brute Force dan QuadTree. Brute Force memeriksa semua pasangan bola sehingga kurang efisien saat jumlah bola banyak, sedangkan QuadTree membagi ruang sehingga jumlah pengecekan tabrakan lebih sedikit. Hasilnya, penggunaan QuadTree meningkatkan performa dan menjaga FPS tetap stabil pada simulasi dengan objek yang besar jumlahnya.
 
 QuadTree
 - Menggunakan teknik Spatial Partitioning. QuadTree membagi ruang simulasi (jendela) menjadi empat area kecil (kuadran), kemudian membagi lagi kuadran tersebut
