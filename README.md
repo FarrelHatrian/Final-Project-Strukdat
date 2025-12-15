@@ -1,4 +1,5 @@
 # Final Project Strukdat Athaya Ahmad Farrel Hatrian (5024241068)
+Algoritma Collision Brute Force & QuadTree
 # ABOUT
 Proyek ini adalah simulasi fisika 2D yang dikembangkan menggunakan C++ dengan library SFML (Simple and Fast Multimedia Library). Tujuan utama program ini adalah mendemonstrasikan dan membandingkan kinerja dua algoritma deteksi tabrakan (Collision Detection) ketika menangani sejumlah besar objek bergerak.
 
