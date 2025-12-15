@@ -35,7 +35,6 @@ QuadTree
 - la hanya dicek tabrakannya dengan bola lain yang berada di kuadran yang sama atau kuadran tetangga dekatnya
 - Sangat cepat dan efisien. Meskipun ada 1000 bola, jumlah pemeriksaan tabrakan yang sebenarnya dilakukan tetap rendah, menjaga FPS tetap tinggi.
 
-## 🎥 Simulation Video
-[▶️ Klik untuk melihat simulasi](assets/simulasi.mp4)
-
+## 🎥 Simulasi
+](https://github.com/user-attachments/assets/a225ae65-ebd0-45ec-9e7e-de15fdddfe27)
   
