@@ -1,5 +1,5 @@
 # Nama executable
-TARGET = main
+TARGET = bola
 
 # Compiler
 CXX = g++
