@@ -9,12 +9,13 @@ Proyek ini adalah simulasi fisika 2D yang dikembangkan menggunakan C++ dengan li
 - Compiler: g++
 
 # FITUR
-- Menggunakan FPS
-- Menggunakan tombol B untuk mode brute force
-- Menggunakan tombol Q untuk mode quadtree
+- Elastic collision
+- HUD FPS realtime
 - Menggunakan space untuk menambah bola
-- Menggunakan tombol R untuk reset bola
-
+- Switch mode:
+  - B → Brute Force
+  - Q → QuadTree
+  
 # TAMPILAN LAYAR
 - Mode Brute Force / Mode QuadTree
 - Petunjuk tombol kontrol
